@@ -1,0 +1,77 @@
+# Ambientes virtuais (Python)
+venv/
+.venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# Python cache & compilação
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Distribuição / empacotamento Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Node / Frontend
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+.pnpm-debug.log*
+front/dist/
+front/dist-ssr/
+*.local
+
+# Modelos treinados e artefatos de IA/ML
+*.keras
+*.h5
+*.pkl
+*.pt
+*.pth
+*.onnx
+
+# Logs e checkpoints do TensorFlow / Treinamento
+checkpoint
+*.ckpt*
+logs/
+*.log
+
+# Variáveis de ambiente e segredos
+.env
+.env.*
+!.env.example
+!.env.sample
+
+# Editores e IDEs
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+*.swp
+*.swo
+*~
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/

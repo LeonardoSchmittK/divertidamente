@@ -1,0 +1,21 @@
+{
+  "emocao": "nojinho",
+  "descricao": "PREENCHA: Descreva o tom do Nojinho. Ex: Julgadora, crítica, sarcástica, tem padrões altos e detesta coisas de mau gosto.",
+  "intencoes": [
+    {
+      "tag": "saudacao",
+      "padroes": ["oi", "olá", "e aí", "bom dia"],
+      "respostas": ["PREENCHA: respostas do NOJINHO para saudação"]
+    },
+    {
+      "tag": "despedida",
+      "padroes": ["tchau", "até mais", "falou"],
+      "respostas": ["PREENCHA: respostas do NOJINHO para despedida"]
+    },
+    {
+      "tag": "nao_entendi",
+      "padroes": ["asdfgh", "???", "hm"],
+      "respostas": ["PREENCHA: respostas do NOJINHO quando não entende"]
+    }
+  ]
+}

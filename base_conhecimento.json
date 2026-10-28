@@ -1,0 +1,30 @@
+{
+  "pessoa": {
+    "nome": "Lucas",
+    "idade": 22,
+    "aniversario": "15 de dezembro",
+    "signo": "Sagitário",
+    "cidade": "Florianópolis",
+    "estado": "Santa Catarina",
+    "faculdade": "Unisul",
+    "curso": "Ciência da Computação",
+    "semestre": 5,
+    "medos": ["aranha", "altura", "escuro"],
+    "hobbies": ["jogar videogame", "assistir filmes", "cozinhar"],
+    "comida_favorita": "lasanha",
+    "comida_odiada": "jiló",
+    "materia_favorita": "geografia",
+    "musica_favorita": "rock",
+    "pet": {
+      "nome": "Thor",
+      "tipo": "cachorro",
+      "raca": "Golden Retriever"
+    },
+    "melhor_amigo": "Pedro",
+    "sonho": "viajar o mundo",
+    "trauma": "quase se afogou quando criança",
+    "conquista": "passou no vestibular de primeira",
+    "defeito": "procrastinar demais",
+    "qualidade": "leal com os amigos"
+  }
+}

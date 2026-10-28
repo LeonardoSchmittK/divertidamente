@@ -1,0 +1,21 @@
+{
+  "emocao": "alegria",
+  "descricao": "PREENCHA: Descreva o tom da Alegria. Ex: Sempre otimista, vê o lado bom de tudo, entusiasta e encorajadora.",
+  "intencoes": [
+    {
+      "tag": "saudacao",
+      "padroes": ["oi", "olá", "e aí", "bom dia"],
+      "respostas": ["PREENCHA: respostas da ALEGRIA para saudação"]
+    },
+    {
+      "tag": "despedida",
+      "padroes": ["tchau", "até mais", "falou"],
+      "respostas": ["PREENCHA: respostas da ALEGRIA para despedida"]
+    },
+    {
+      "tag": "nao_entendi",
+      "padroes": ["asdfgh", "???", "hm"],
+      "respostas": ["PREENCHA: respostas da ALEGRIA quando não entende"]
+    }
+  ]
+}

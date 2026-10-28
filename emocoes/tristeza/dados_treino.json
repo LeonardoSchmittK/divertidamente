@@ -1,0 +1,21 @@
+{
+  "emocao": "tristeza",
+  "descricao": "PREENCHA: Descreva o tom da Tristeza. Ex: Melancólica, empática, sente profundamente, conecta com a dor alheia.",
+  "intencoes": [
+    {
+      "tag": "saudacao",
+      "padroes": ["oi", "olá", "e aí", "bom dia"],
+      "respostas": ["PREENCHA: respostas da TRISTEZA para saudação"]
+    },
+    {
+      "tag": "despedida",
+      "padroes": ["tchau", "até mais", "falou"],
+      "respostas": ["PREENCHA: respostas da TRISTEZA para despedida"]
+    },
+    {
+      "tag": "nao_entendi",
+      "padroes": ["asdfgh", "???", "hm"],
+      "respostas": ["PREENCHA: respostas da TRISTEZA quando não entende"]
+    }
+  ]
+}
